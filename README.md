@@ -35,9 +35,9 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 ## Mes projets
-### Projet 1 : Analyse des ventes d'une entreprise
-- **Description** : Analyse des ventes mensuelles pour prévoir les tendances futures.
-- **Technologies** : Python, pandas, Matplotlib, scikit-learn, SQL.
+### Projet 1 : Analyse du catalogue Netflix vs. Attentes des abonnés  
+- **Description** : Analyse de l'adéquation entre le catalogue Netflix et les préférences des utilisateurs en utilisant le rapport *What We Want*. Scraping des contenus Netflix et comparaison avec les tendances des abonnés.  
+- **Technologies** : Python, BeautifulSoup, pandas, Matplotlib, SQL. 
 - [Lien vers le projet](https://github.com/Yacine-Hamdi/Netflix)
 
 ### Projet 2 : Analyse des sentiments sur Twitter
