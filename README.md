@@ -41,7 +41,7 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 ### Projet 2 : Analyse des sentiments sur Twitter
 - **Description** : Utilisation du scraping pour analyser les sentiments des utilisateurs sur Twitter autour d'un sujet donné.
 - **Technologies** : BeautifulSoup, pandas, scikit-learn, WordCloud.
-- **Lien vers le projet** : [lien vers le projet GitHub](#)
+- **Lien vers le projet** : [lien vers le projet GitHub](https://github.com/Yacine-Hamdi/Netflix)
 
 ### Projet 3 : Prévision des stocks avec des séries temporelles
 - **Description** : Application de modèles de séries temporelles pour prévoir les niveaux de stock d'un produit.
